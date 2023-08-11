@@ -1,7 +1,3 @@
 This is my first file adding
 This is my first commit
-<<<<<<< HEAD
-Happiest movement
-=======
-almost done
->>>>>>> f4362e71daa7297b84716dd9637af9ba57cee7bd
+swtch branches
